@@ -1,12 +1,12 @@
 
 
 # Site settings
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+title-bold: SUIS Pudong
+title-normal: check out the daily SUIS Pudong
+email: suis-house@hotmail.com
+description: check out the daily SUIS Pudong
+baseurl: "/suis-pudong" # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site
 author: 
 street_address: 1234 Somewhere Road
 city: Nashville
